@@ -1,0 +1,15 @@
+//1 : creer une fonction
+//pour calculer le perimetre d un carre
+//P = 4 * c
+
+function perimetreCarre(c) {
+    return c * 4 ;
+}
+
+//2 : creer une fonction
+//pour calculer le perimetre d un rectangle
+//P = (l + L) * 2
+ 
+function perimetreRectangle(l,L) {
+    return (l + L)*2 ;
+}
