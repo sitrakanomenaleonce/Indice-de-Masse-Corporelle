@@ -1,0 +1,14 @@
+*{
+    padding: 1rem 2rem;
+}
+
+
+h1,.poids,.tailles,.sub{
+    text-align: center;
+}
+
+.dive{
+    margin-left: 17rem;
+    width: 50%;
+    background: red;
+}
